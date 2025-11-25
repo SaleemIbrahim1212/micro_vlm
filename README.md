@@ -2,7 +2,7 @@
 
 # Micro Vision Language Model: 
 
-Minimialist reimplimentation of a decoder only Vision Language Model (VLM). This code is specifically designed to be compact, fast, and fit on a very small GPU < 4gb. However, it can be scalled up rather easily.
+Minimialist reimplimentation of a decoder only Vision Language Model (VLM). This code is specifically designed to be compact, fast, and fit on a very small GPU < 4gb. It can train the VLM in about 90 minutes to good performance and stores the dataset on the GPU to achieve this fast training.  However, it can be scalled up rather easily.
 
 ## Install
 
